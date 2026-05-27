@@ -5,9 +5,8 @@ Our client, a mid-sized company, is facing challenges with employee turnover and
 The company wants a data-driven solution to help HR answer these questions:
 
 
-Which employees are at risk of leaving the company - age group, gender, department, job role, job satisfaction
-
-How do career growth factors like years at company, years in current role, and promotions impact employee retention
+1. Which employees are at risk of leaving the company - age group, gender, department, job role, job satisfaction
+2. How do career growth factors like years at company, years in current role, and promotions impact employee retention
 
 
 
