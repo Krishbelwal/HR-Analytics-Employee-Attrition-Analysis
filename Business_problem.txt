@@ -5,18 +5,16 @@ Our client, a mid-sized company, is facing challenges with employee turnover and
 The company wants a data-driven solution to help HR answer these questions:
 
 
-Which employees are at risk of leaving the company - age group , gender , department , job role , job satisfaction
+Which employees are at risk of leaving the company - age group, gender, department, job role, job satisfaction
 
 How do career growth factors like years at company, years in current role, and promotions impact employee retention
-
-The goal is to use SQL to clean, analyze, and summarize the HR data, and Power BI to create an interactive dashboard to provide insights that help HR to make better decisions to retain employees.
 
 
 
 ## Business Keywords
 
-- **Employee Turnover:** The rate at which employees join and leave an organization during a specific period.  
+- **Employee Turnover:** The rate at which employees join and leave an organisation during a specific period.  
 
-- **Employee Retention:** The organization’s ability to keep employees for a longer period and reduce attrition.  
+- **Employee Retention:** The organisation’s ability to keep employees for a longer period and reduce attrition.  
 
 - **Employee Engagement Metrics:** Measures used to evaluate employee interest, involvement, motivation, commitment, and satisfaction with their work.
