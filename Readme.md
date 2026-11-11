@@ -1,7 +1,7 @@
 # HR Analytics - Employee Attrition Dashboard
 
 ![Front page](Front_Page.png)  
-![Dashboard1](Dashboard(1).png)  
+![Dashboard1](Dashboard1.png)  
 ![Dashboard2](Dashboard2.png)  
 
 ---
