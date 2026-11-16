@@ -1,9 +1,9 @@
 # HR Employee Attrition Analysis | MySQL & Power BI
 
 
-![Front page](Front_Page.png)  
-![Dashboard1](Dashboard1.png)  
-![Dashboard2](Dashboard2.png)  
+![Front page](Front-Page.png)  
+![Dashboard1](Dashboard-1.png)  
+![Dashboard2](Dashboard-2.png)  
 
 
 ## 1. Project Overview
