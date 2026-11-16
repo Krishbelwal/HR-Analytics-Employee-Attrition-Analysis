@@ -228,6 +228,15 @@ when
 YearsSinceLastPromption between 6 And 10 Then '6-10'
 When 
 YearsSinceLastPromption Between 11 And 15 Then '11-15'
-Else '15+'
+When 
+YearsSinceLastPromption Between 11 And 15 Then '11-15'
 End;
-select `YearsSinceLastPromption` , count(*) from employee_attrition group by `YearsSinceLastPromption`;
+
+
+
+SET SQL_SAFE_UPDATES = 0;
+UPDATE Employee_Attrition
+SET YearsINCurrentRole = CASE
+    WHEN YearsINCurrentRole = '15+' THEN '15 - 20'
+    ELSE YearsINCurrentRole
+END;
