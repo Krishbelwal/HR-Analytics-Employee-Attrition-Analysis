@@ -269,3 +269,8 @@ The HR Employee Attrition Dashboard provides a structured view of historical emp
 ## 7. Author
 
 **Krishna Belwal**
+
+- **Domain:** Human Resources (HR)
+- **Tools & Technologies:** MySQL | Power BI | DAX | Excel
+- **Project Category:** HR Analytics
+- **Project Type:** Data Analytics & Business Intelligence
